@@ -1,0 +1,72 @@
+.top{
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    margin: 10px;
+    height: 26vh;
+    width: 98%;
+}
+
+.purp{
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 50px;
+    float: left;
+    width: 40px;
+    height: 17vh;
+    background-color: darkviolet;
+}
+
+.green{
+    margin-top: 9px;
+    float: left;
+    height: 23vh;
+    width: 300px;
+    background-color: green;
+}
+
+.blue{
+    float: left;
+    margin-left: 30px;
+    margin-top: 9px;
+    background-color: rgb(87, 203, 241);
+    border-radius: 50%;
+    height: 23vh;
+    width: 23vh;
+}
+
+.dots{
+    border-style: dotted;
+    border-color: black;
+    border-width: 4px;
+    margin: 10px;
+    height: 35vh;
+    width: 98%;
+}
+
+.shadow{
+    margin: 25px auto;
+    box-shadow:8px 10px black;
+    height: 23vh;
+    width: 85%;
+    background-color: blanchedalmond;
+}
+
+.bottom{
+    border-style: solid;
+    border-color: slategray;
+    border-width: 1px;
+    box-shadow: 6px 8px slategray;
+    margin: 20px auto;
+    height: 40vh;
+    width: 60vh;
+}
+
+.hello{
+    font-family: serif;
+    margin: auto;
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 55px;
+}
